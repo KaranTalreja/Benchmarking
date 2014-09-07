@@ -3,6 +3,7 @@
 /bin
 TEST
 /TestResult
+*.a
 *.o
 *.swp
 *.tmp
